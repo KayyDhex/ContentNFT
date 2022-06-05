@@ -1,0 +1,9 @@
+{
+    "name": "Kimbo #1",
+    "description": "Kimbo #1 de prueba",
+    "image": "https://raw.githubusercontent.com/KayyDhex/ContentNFT/main/1.png",
+    "animation_url" : "https://github.com/KayyDhex/ContentNFT/blob/0f52933b43eff43a1d2815a0881fb9d436de4fff/1.glb",
+    "attributes" : [
+        {"trait_type":"Camisa","value":"Negra"}
+    ]
+}

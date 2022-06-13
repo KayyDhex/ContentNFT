@@ -1,8 +1,8 @@
 {
-    "name": "Kimbo #0",
-    "description": "Kimbo #0 de prueba",
-    "image": "https://raw.githubusercontent.com/KayyDhex/ContentNFT/main/0.png",
-    "animation_url" : "https://github.com/KayyDhex/ContentNFT/blob/main/0.glb?raw=true",
+    "name": "Kimbo NFT 1",
+    "description": "Funko de Kimbo",
+    "image": "https://raw.githubusercontent.com/KayyDhex/ContentNFT/main/img/0.png",
+    "animation_url" : "https://github.com/KayyDhex/ContentNFT/blob/main/models/0.glb",
     "attributes" : [
         {"trait_type":"Camisa","value":"Blanca"}
     ]

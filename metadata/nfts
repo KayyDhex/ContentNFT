@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Kimbo NFT 1",
+        "description": "Funko de Kimbo",
+        "image": "https://raw.githubusercontent.com/KayyDhex/ContentNFT/main/img/0.png",
+        "animation_url" : "https://github.com/KayyDhex/ContentNFT/blob/main/models/0.glb",
+        "attributes" : [
+            {"trait_type":"Camisa","value":"Blanca"}
+        ]
+    },
+    {
+        "name": "Kimbo NFT 2",
+        "description": "Funko de Kimbo",
+        "image": "https://raw.githubusercontent.com/KayyDhex/ContentNFT/main/img/1.png",
+        "animation_url" : "https://github.com/KayyDhex/ContentNFT/blob/main/models/1.glb",
+        "attributes" : [
+            {"trait_type":"Camisa","value":"Negra"}
+        ]
+    },
+    {
+        "name": "MetaJungle box",
+        "description": "Caja primera edicion de MetaJungle.",
+        "image": "https://raw.githubusercontent.com/KayyDhex/ContentNFT/main/img/2.png",
+        "animation_url" : "https://github.com/KayyDhex/ContentNFT/blob/main/models/2.glb",
+        "attributes" : [
+            {"trait_type":"Caja","value":"Negra"}
+        ]
+    }
+]
